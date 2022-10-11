@@ -1,5 +1,10 @@
 # MONSTERS-ROLODEX
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195171352-571a3814-ea81-44d4-bd5d-eef40fa02fda.png)
+
 
 ## DESCRIPTION
 This is a simple app that allows the user to search and find monsters.
@@ -28,11 +33,6 @@ Allows users to search through the monsters to find and view them.
 ## Technologies
 HTML, CSS, Javascript, React
 
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 Aniyah Butler
